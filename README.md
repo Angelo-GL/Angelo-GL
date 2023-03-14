@@ -1,6 +1,6 @@
 ## Olá! Eu sou Ângelo Gabriel
 
-- 👀 Estou interessado em projetos back-end
+- 👀 Possuo interesse em projetos Back-end que utilizem as tecnologias NodeJs, Java Script, Spring Boot, Java.
 - 🌱 Estou aprendendo Typescript
 - 📫 Como chegar até mim: angelogabriel207@outlook.com
 
